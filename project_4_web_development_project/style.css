@@ -1,0 +1,18 @@
+
+
+
+
+#inuse{border: 5px solid rgb(0, 0, 0);
+       position: relative; 
+       width: 400px;
+       height: 300px;
+        top: 25px;}
+ /* use id tags to edit photos seperately when doing so " #"idname" " */
+
+p{font-size: 40px;
+    text-shadow: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;} 
+    #credit{position: relative; 
+        width: 400px;
+        height: 300px;
+         top: 25px; }         
