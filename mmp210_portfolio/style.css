@@ -1,7 +1,9 @@
 #self {border-radius: 50%;
           height: 300px;
           width: 200px;
-          position: left;
+         float: left;
+         margin-left: auto;
+         margin-right: auto;
         border: 5px ridge brown;}
 
 
@@ -16,9 +18,10 @@ border: 5px ridge brown;}
 body {background-image: radial-gradient(#000000,#ffffff);}
 
 p{text-align: center;
-    width: 1500px;
+    width: 1400px;
     font-size: x-large;
-    float: right ;
+    margin-left: auto;
+    margin-right: auto;
 border: 5px ridge brown;
 background-color: rgb(231, 64, 64);}
 
